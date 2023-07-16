@@ -1,0 +1,149 @@
+.header{
+    background-color:#3b5998;
+    width:100%;
+    height: 85px;
+}
+body{
+    margin:0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: right;
+    padding-top: 4px
+}
+.loginpage {
+    color: white;
+    cursor: pointer;
+    text-decoration: white;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif,Helvetica, sans-serif ;
+    margin-left: 200px;
+}
+.login-controls{
+    color: aliceblue ;
+    margin-left: 198px;
+
+}
+.login-label{
+    color: fff;
+    font-size: 13px;
+}
+.pass{
+
+    font-size:11px;
+    color:#d2dbd5;
+    cursor: pointer;
+    text-decoration:none;
+}
+.pass:hover{
+    cursor: pointer;
+    color: #fff;
+}
+.sub-mit{
+    background-color: #163073;
+    border:ridge;
+    color: #fff;
+    border-color: #163e73;
+    cursor: pointer;
+}
+.sub-mit:hover{
+    background-color: #3b5998;
+}
+.main-body{
+    background:linear-gradient(white,#e9ebf4);
+    width:100%;
+    height: 700px;
+}
+.left-section{
+    width: 50%;
+    float: left;
+    padding-left: 123px;
+    padding-top: 50px;
+}
+.right-section{
+    margin-top: 20px;
+    width: 36%;
+    float:left;
+    margin-right: 10px;
+}
+.tag-line{
+   
+   color: #163e73; 
+   font-weight:bold;
+   
+   font-size: 23px;
+}
+.image{
+    width: 458px;
+}
+.first{
+    font-weight: bold;
+   font-size: 39px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.second{
+    font-size: medium;
+    color: black;
+    font-weight:200;
+}
+.firstname{
+    width: 149px;
+    height: 30px;
+    border-radius: 7px; 
+    border: 2px solid #6c6f6d;
+}
+.surname{
+    width: 149px;
+    height:30px ;
+    border-radius: 7px;
+    border: 2px solid #dce6df;
+    
+}
+.mob{
+    width: 313px;
+    height:30px ;
+    border-radius: 5px;
+    border: 2px solid #dce6df;
+
+}
+.password{
+    width: 313px;
+    height:30px ;
+    border-radius: 5px;
+    border: 2px solid #dce6df;
+
+}
+.birth{
+    color: #606568;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.petti{
+    border-radius: 5px;
+    height: 26px;
+}
+.button-last{
+    height: 33px;
+    width: 89px;
+    color: white;
+    background: forestgreen;
+    border-radius: 5px;
+    border: darkgreen;
+}
+.genter{
+    color: #606568;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.last-pera{
+    font-size:11px;
+
+}
